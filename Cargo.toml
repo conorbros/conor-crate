@@ -1,0 +1,14 @@
+[package]
+name = "conor-crate"
+version = "0.1.1"
+edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "A short description of my package"
+documentation = "https://docs.rs"
+homepage = "https://github.com/conorbros"
+repository = "https://github.com/conorbros"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
