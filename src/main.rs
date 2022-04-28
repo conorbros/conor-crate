@@ -6,7 +6,7 @@ fn main() {
 mod tests {
 
     #[test]
-    fn test_something(){
+    fn test_something() {
         assert!(true);
     }
 }
