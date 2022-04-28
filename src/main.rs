@@ -7,6 +7,7 @@ mod tests {
 
     #[test]
     fn test_something() {
-        assert!(true);
+        let x = true;
+        assert!(x);
     }
 }
